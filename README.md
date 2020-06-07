@@ -2,10 +2,15 @@
 Travis County needs help in gathering a list of potential poll-workers to facilitate the primary run-off elections on July 14th, 2020.
 ## To-Do
 ~~1. Create the Google form~~
-1b. Review and confirm Google form language 
+
+1b. Review and confirm Google form language
+
 2. host the form on a credible website
+
 3. Brainstorm places and methods to spread the message
+
 4. Create resources to facilitate outreach and awareness about this initiative
+
 5. Spread the message to ideally gather around 1,000 applicants for Travis County to reach out to.
 
 ## Resources
